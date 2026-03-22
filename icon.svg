@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="114" fill="#0A0F0D"/>
+  <rect width="512" height="512" rx="114" fill="url(#bg)"/>
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="20%" r="80%">
+      <stop offset="0%" stop-color="#1A2820"/>
+      <stop offset="100%" stop-color="#0A0F0D"/>
+    </radialGradient>
+  </defs>
+  <!-- seta direita estilizada -->
+  <rect x="100" y="234" width="220" height="44" rx="22" fill="#B8F04A"/>
+  <polygon points="296,180 412,256 296,332" fill="#B8F04A"/>
+  <!-- ponto de velocidade -->
+  <circle cx="156" cy="340" r="22" fill="#B8F04A" opacity="0.3"/>
+  <circle cx="156" cy="340" r="12" fill="#B8F04A" opacity="0.6"/>
+</svg>
