@@ -1,0 +1,18 @@
+{
+  "name": "RápidoVai · Painel",
+  "short_name": "RV Painel",
+  "description": "Painel do entregador RápidoVai",
+  "start_url": "/rapidovai/painel.html",
+  "display": "standalone",
+  "background_color": "#0A0F0D",
+  "theme_color": "#0A0F0D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "rv-painel.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
